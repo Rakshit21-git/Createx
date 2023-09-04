@@ -1,0 +1,97 @@
+.TrendingNow{
+    background-color: 
+    #E5E8ED;
+    z-index: -1;
+}
+.TrendingNow .card-body p{
+    font-size: 12px;
+}
+.TrendingNow .bottom-30{
+    bottom: 30%;
+}
+ 
+.TrendingNow .row{
+    --bs-gutter-x: 0;
+}
+.TrendingNow .card-body{
+    background-color: 
+    #E5E8ED;
+    z-index: 0;
+}
+.TrendingNow .jk{
+    position: relative;
+}
+
+.TrendingNow .react-multi-carousel-list{
+    position:static;
+}
+ .react-multiple-carousel__arrow{
+    top:11%;
+    width: 43px;
+    height: 43px ;
+    min-width: none !important;
+    min-height: none !important;
+}
+.TrendingNow .react-multiple-carousel__arrow--left {
+    left: calc(83% + 1px);
+}
+@media screen and (max-width : 1024px){
+    .TrendingNow .react-multiple-carousel__arrow--left {
+        left: calc(75% + 1px);
+        
+    }
+    .TrendingNow .react-multiple-carousel__arrow{
+        top:9%;
+    }
+}
+@media screen and (max-width : 768px){
+    .TrendingNow .react-multiple-carousel__arrow--left {
+        left: calc(70% + 1px);
+    }
+    .TrendingNow .bottom-30 {
+        bottom: 40%;
+    }
+}
+@media screen and (max-width : 376px){
+    .TrendingNow .bottom-30 {
+        bottom: 42%;
+    } 
+    .TrendingNow .heading{
+        font-size: 1.2rem !important;
+    }
+    .TrendingNow .react-multiple-carousel__arrow--left {
+        left: calc(70% + 1px) !important;
+    }
+}
+@media screen and (max-width : 426px){
+    .TrendingNow .heading{
+        font-size: 1.5rem;
+    }
+    .react-multiple-carousel__arrow::before {
+        font-size: 10px !important;
+}
+.react-multiple-carousel__arrow{
+    width: 23px !important;
+    height: 23px !important;
+}
+.TrendingNow .react-multiple-carousel__arrow--left {
+    left: calc(73% + 1px);
+}
+
+
+}
+@media screen and (max-width : 320px){
+    .TrendingNow .bottom-30 {
+        bottom: 50% !important;
+    }
+    .TrendingNow .heading{
+        font-size: 1rem !important;
+    }
+    .TrendingNow .react-multiple-carousel__arrow--left {
+        left: calc(65% + 1px) !important;
+    }
+    .TrendingNow .btn{
+        width: 120px !important;
+        font-size: 12px !important;
+    }
+}

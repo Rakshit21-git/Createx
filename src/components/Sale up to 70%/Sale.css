@@ -1,0 +1,89 @@
+
+.Sale .card-body p{
+    font-size: 11px;
+}
+.Sale .bottom-30{
+    bottom: 30%;
+}
+ 
+.Sale .row{
+    --bs-gutter-x: 0;
+}
+
+.Sale .jk{
+    position: relative;
+}
+
+.Sale .react-multi-carousel-list{
+    position:static;
+}
+.react-multiple-carousel__arrow{
+    top:10%;
+    width: 43px;
+    height: 43px;
+    min-width: 0 !important;
+    min-height: 0 !important;
+}
+.Sale .react-multiple-carousel__arrow--left {
+    left: calc(83% + 1px);
+}
+@media screen and (max-width : 1024px){
+    .Sale .react-multiple-carousel__arrow--left {
+        left: calc(75% + 1px);
+        
+    }
+    .Sale .react-multiple-carousel__arrow{
+        top:10% ;
+    }
+}
+@media screen and (max-width : 768px){
+    .Sale .react-multiple-carousel__arrow--left {
+        left: calc(70% + 1px);
+    }
+    .Sale .bottom-30 {
+        bottom: 36%;
+    }
+}
+@media screen and (max-width : 376px){
+    .Sale .bottom-30 {
+        bottom: 37%;
+    } 
+    .Sale .heading{
+        font-size: 1rem !important;
+    }
+    .Sale .react-multiple-carousel__arrow--left {
+        left: calc(70% + 1px) !important;
+    }
+}
+@media screen and (max-width : 426px){
+    .Sale .heading{
+        font-size: 1.2rem;
+    }
+    .react-multiple-carousel__arrow::before {
+        font-size: 9px;
+}
+.react-multiple-carousel__arrow{
+    width: 23px !important;
+    height: 23px !important;
+}
+.Sale .react-multiple-carousel__arrow--left {
+    left: calc(73% + 1px);
+}
+
+
+}
+@media screen and (max-width : 320px){
+    .Sale .bottom-30 {
+        bottom: 50% !important;
+    }
+    .Sale .heading{
+        font-size: 0.9rem !important;
+    }
+    .Sale .react-multiple-carousel__arrow--left {
+        left: calc(65% + 1px) !important;
+    }
+    .Sale .btn{
+        width: 120px !important;
+        font-size: 12px !important;
+    }
+}
