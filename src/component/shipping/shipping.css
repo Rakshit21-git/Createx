@@ -1,0 +1,23 @@
+.shipping_cols{
+    font-size: 0.8rem;
+}
+.shipping_div{
+    font-size: 0.6rem;
+    color: gray;
+
+}
+.vr{
+    height: 90px;
+    width: 1px;
+    border-right: 1px solid rgb(240, 232, 232);
+}
+.vr-3{
+    height: 100px;
+    width: 1px;
+    border-right: 1px solid rgb(240, 232, 232);
+}
+@media screen and (max-width:768px) {
+    .vr-3{
+        display: none;
+    }
+}

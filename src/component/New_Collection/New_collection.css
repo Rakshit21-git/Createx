@@ -1,0 +1,112 @@
+.carosel_container{
+    position: relative;
+}
+.new_collection_img1{
+    background-image: url('../../../public/assets/menswear.png');
+    width: 100vw;
+    height: 80vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.new_collection_img2{
+    background-image: url('../../../public/assets/womenswear.jpg');
+    width: 100%;
+    height: 80vh;
+ 
+
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.new_collection_img3{
+    background-image: url('../../../public/assets/sweater.png');
+    width: 100%;
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.new_collection_img4{
+    background-image: url('../../../public/assets/kidswear.jpg');
+    width: 100%;
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.slider_indicator{
+    width: 8rem!important;
+}
+.new_collection_carousel_indicators{
+    position: absolute!important;
+    right: 340px!important;
+}
+.carousel-indicators [data-bs-target]{
+    background-color: black;
+}
+.images_container{
+    margin-top: -3rem;
+    position: absolute;
+    left: 0;
+    right: 0;
+}
+.right_arrow{
+    border-radius: 50%;
+    color: black;
+    width: 3rem;
+    height: 3rem;
+    background-color: white;
+}
+@media screen and (max-width: 1200px)
+ {
+    .slider_indicator{
+        width: 6rem!important;
+    }
+    .new_collection_carousel_indicators{
+        margin-left: 80px!important;
+    }
+}
+@media screen and (max-width: 992px)
+ {
+    .images_container{
+        margin-top: -2rem;
+    }
+    .slider_indicator{
+        width: 4rem!important;
+    }
+    .new_collection_carousel_indicators{
+        margin-left: 170px!important;
+    }
+}
+@media screen and (max-width: 768px){
+    .new_collection_container{
+        margin-left: 0px!important;
+    }
+    .new_collection_carousel_indicators{
+        margin-left: 6rem!important;
+    }
+}
+@media screen and (max-width: 748px){
+    .new_collection_carousel_indicators{
+        margin-left: 12rem!important;
+    }
+}
+@media screen and (max-width: 530px){
+    .images_container{
+        margin-top: -1rem;
+    }
+    .new_collection_carousel_indicators{
+        margin-left: 11rem!important;
+    }
+    .new_coll_div{
+        font-size: 0.7rem;
+    }
+    .menswear_div{
+        font-size: 1.5rem;
+    }
+    .shop_btn{
+        font-size: 0.7rem;
+    }
+    .slider_indicator{
+        width: 3rem!important;
+    }
+}
