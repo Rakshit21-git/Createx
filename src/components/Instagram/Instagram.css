@@ -1,0 +1,37 @@
+@media (max-width:425px) {
+    .ClassThird {
+        margin-bottom: 50px;
+        /* text-align: center; */
+    }
+
+    .FlexClass {
+        display: flex;
+        justify-content: center;
+    }
+
+    .ClassThird {
+        text-align: center;
+    }
+    .img-fluid{
+        margin-bottom: 20px;
+        display: flex;
+        justify-content: center;
+    }
+}
+
+@media (min-width:426px) and (max-width:768px) {
+    .ClassThird {
+        margin-bottom: 50px;
+    }
+    .FlexClass {
+        display: flex;
+        justify-content: center;
+        
+    }
+    .img-fluid{
+        margin-bottom: 20px;
+        display: flex;
+        justify-content: center;
+        margin-right: 0!important;
+    }
+}

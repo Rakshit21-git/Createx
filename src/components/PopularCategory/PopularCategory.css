@@ -1,0 +1,16 @@
+@media screen and (max-width:375px) {
+    .images {
+        width: 140px;
+        height: 140px;
+    }
+}
+@media (min-width:990px) and (max-width:1200px) {
+    .images {
+        width: 155px;
+        height: 155px;
+    }
+}
+
+.PopularCategory{
+    margin-top: 150px!important;
+}
