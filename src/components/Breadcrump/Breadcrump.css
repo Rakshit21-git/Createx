@@ -1,0 +1,37 @@
+.Bread{
+    background-color:  #F4F5F6;
+}
+.Bread i{
+    color: black;
+}
+.Bread img {
+    margin-left: 15px;
+    color: black;
+    width: 10px;
+    height: 10px;
+}
+.Bread .breadcrumb-item{
+    text-decoration: none;
+    margin-left: 15px;
+    color: black;
+}
+.breadcrump{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+@media (max-width:768px) {
+    /* .Bread img{
+        margin-left: 3px;
+    }
+    .Bread .breadcrumb-item{
+        margin-left: 3px;
+    } */
+}
+@media (max-width:425px) {
+    /* .Bread img{
+        margin-left: 3px;
+    }
+    .Bread .breadcrumb-item{
+        margin-left: 3px;
+    } */
+}
