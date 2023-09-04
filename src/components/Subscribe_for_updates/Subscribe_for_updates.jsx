@@ -21,7 +21,7 @@ function Subscribe_for_updates() {
                <input type="text" className=' subscribe_input w-100' placeholder='Your working email' />
                 <button className='subscribe_input_btn btn btn-success'>Subscribe</button>
                 </div>
-                <div className='mt-4'><img src="/assets/checked.svg" className='me-2' alt="" />
+                <div className='mt-4'><img src="/Assests/Images/checked.svg" className='me-2' alt="" />
                 <span className='check_div'>I agree to receive communications from Createx Store.</span></div>
                 <div className="subscribe_img"></div>
                </div>
