@@ -92,13 +92,13 @@ function New_collection() {
             <div className="container images_container">
                 <div className="row d-flex justify-content-center ">
                     <div className="col-3 ">
-                        <img className='w-100'  src="./assets/women's.png" alt="" />
+                        <img className='w-100'  src="./Assests/Images/women's.png" alt="" />
                     </div>
                     <div className="col-3">
-                        <img className='w-100' src="./assets/men's.png" alt="" />
+                        <img className='w-100' src="./Assests/Images/men's.png" alt="" />
                     </div>
                     <div className="col-3">
-                        <img className='w-100' src="./assets/kid's.png" alt="" />
+                        <img className='w-100' src="./Assests/Images/kid's.png" alt="" />
                     </div>
                 </div>
             </div>

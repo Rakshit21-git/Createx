@@ -1,18 +1,18 @@
 .first {
-    background-image: url(/src/Assests/Images/banner1.png);
+    background-image: url(../../../public/Assests/Images/banner1.png);
     height: 24.25rem;
     background-position: center;
     background-size: cover;
 }
 
 .second {
-    background-image: url(/src/Assests/Images/banner2.png);
+    background-image: url(../../../public/Assests/Images/banner2.png);
     background-position: center;
     background-size: cover;
 }
 
 .third {
-    background-image: url(/src/Assests/Images/banner3.png);
+    background-image: url(../../../public/Assests/Images/banner3.png);
     height: 24.25rem;
     background-size: cover;
     background-position: center;
@@ -25,7 +25,7 @@
 }
 
 .fourth {
-    background-image: url(/src/Assests/Images/banner4.png);
+    background-image: url(../../../public/Assests/Images/banner4.png);
     background-repeat: no-repeat;
     width: 283px;
     height: 300px;

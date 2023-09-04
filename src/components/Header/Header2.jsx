@@ -9,7 +9,7 @@ function Header2() {
 
                 <div className="container  ">
                     <div class="container-fluid Header2_container_fluid row  ">
-                        <img className='col-md-2  col-4' src="./assets/logo.svg" alt="" />
+                        <img className='col-md-2  col-4' src="./Assests/Images/logo.svg" alt="" />
                         <button class="navbar-toggler navbar-btn col-md-1  col-2" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                             <span class="navbar-toggler-icon"></span>
                         </button>
@@ -84,7 +84,7 @@ function Header2() {
                                                 </div>
                                                 <div className="col-1 vr  divider"></div>
                                                 <div className="col-lg-3 col-12 Header_dropdown_items">
-                                                    <img className='dropdown_img' src="./assets/image.png" alt="" />
+                                                    <img className='dropdown_img' src="./Assests/Images/image.png" alt="" />
                                                     <div className='my-2' style={{fontSize:"0.8rem "}}>Back to school. Sale up to 50%</div>
                                                     <button type="button" class="btn w-50" style={{border:"1px solid #17696A" , color: "#17696A",fontSize:"0.8rem" }}>See offers <i class="fa-solid fa-arrow-right-long" style={{color: "#17696A"}}></i></button>
 
@@ -105,10 +105,10 @@ function Header2() {
                                     </div>
                                 </div>
                                 <div className='col-2  my-auto justify-content-center d-flex'>
-                                    <img className='me-1 ms-2  ' src="./assets/Heart.svg" alt="" />2
+                                    <img className='me-1 ms-2  ' src="./Assests/Images/Heart.svg" alt="" />2
                                 </div>
                                 <div className='col-2 d-flex text-light align-items-center'>
-                                    <img className='me-1' src="./assets/cart.svg" alt="" />< span className='cart_span px-2'>4</span>
+                                    <img className='me-1' src="./Assests/Images/cart.svg" alt="" />< span className='cart_span px-2'>4</span>
                                 </div>
                             </form>
                         </div>

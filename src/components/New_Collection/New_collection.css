@@ -2,7 +2,7 @@
     position: relative;
 }
 .new_collection_img1{
-    background-image: url('../../../public/assets/menswear.png');
+    background-image: url('../../../public/Assests/Images/menswear.png');
     width: 100vw;
     height: 80vh;
     background-position: center;
@@ -11,7 +11,7 @@
     
 }
 .new_collection_img2{
-    background-image: url('../../../public/assets/womenswear.jpg');
+    background-image: url('../../../public/Assests/Images/womenswear.jpg');
     width: 100%;
     height: 80vh;
  
@@ -20,14 +20,14 @@
     background-size: cover;
 }
 .new_collection_img3{
-    background-image: url('../../../public/assets/sweater.png');
+    background-image: url('../../../public/Assests/Images/sweater.png');
     width: 100%;
     height: 80vh;
     background-repeat: no-repeat;
     background-size: cover;
 }
 .new_collection_img4{
-    background-image: url('../../../public/assets/kidswear.jpg');
+    background-image: url('../../../public/Assests/Images/kidswear.jpg');
     width: 100%;
     height: 80vh;
     background-repeat: no-repeat;
