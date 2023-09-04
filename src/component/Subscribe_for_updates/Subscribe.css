@@ -1,0 +1,100 @@
+.subscribe_btn {
+    width: 80px;
+}
+
+.subscribe_input_div {
+    position: relative;
+    width: 27rem;
+}
+
+.subscribe_input {
+    /* position: relative; */
+    height: 2.5rem;
+    padding-left: 1.3rem;
+    border: 1px solid rgb(189, 183, 183);
+}
+
+.subscribe_input::placeholder {
+    color: gray;
+    font-weight: 400;
+}
+
+.subscribe_input_btn {
+    position: absolute;
+    right: 0;
+    height: 2.5rem;
+    width: 7rem;
+    font-weight: bold;
+    font-size: 0.9rem;
+}
+
+.subscribe_main_div {
+    background-color: #F4F5F6;
+}
+
+.subscribe_div {
+    position: relative;
+}
+
+.subscribe_img {
+    background-image: url(../../../public/assets/subscribe.png);
+    background-size: 300px 300px;
+    background-repeat: no-repeat;
+    position: absolute;
+    height: 300px;
+    width: 300px;
+    bottom: 0;
+    right: 0;
+    z-index: -1;
+}
+
+.sub_div {
+    color: gray;
+
+}
+
+.check_div {
+    color: gray;
+    font-size: 0.8rem;
+}
+
+.subscribe_div {
+    z-index: 1;
+
+}
+
+@media screen and (max-width:576px) {
+    .subscribe_head {
+        font-size: 1.6rem;
+    }
+
+    .sub_div {
+        font-size: 0.8rem;
+    }
+    .subscribe_input_div{
+        width: 16rem;
+        height: 2rem;
+    }
+    .subscribe_input{
+        height: 2rem;
+    }
+    .subscribe_input_btn{
+        height: 2rem;
+        font-size: 0.7rem;
+    }
+    .check_div{
+        font-size: 0.7rem;
+    }
+    .subscribe_btn{
+        font-size: 0.8rem;
+    }
+    .subscribe_input::placeholder{
+        font-size: 0.7rem;
+    }
+}
+@media screen and (max-width:360px){
+    .subscribe_btn{
+        font-size: 0.6rem;
+        width: 4rem;
+    }
+}

@@ -1,25 +1,33 @@
 import logo from './logo.svg';
 import './App.css';
+import Header1 from './component/Header/Header1';
+import Header2 from './component/Header/Header2';
+import Header3 from './component/Header/Header3';
+import Footer from './component/Footer/Footer';
+import New_collection from './component/New_Collection/New_collection';
+
+import Basic_hooded from './component/Basic_hodded/Basic_hooded';
+
+import Subscribe_for_updates from './component/Subscribe_for_updates/Subscribe_for_updates';
+import Shipping from './component/shipping/Shipping';
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    <>
+    <Header1/>
+    <Header2/>
+    <Header3/>
+    <New_collection/>
+
+    {/* <Basic_hooded/> */}
+    {/* <Trending_now/> */}
+    {/* <Subscribe_for_updates/> */}
+    <Shipping/>
+    <Footer/>
+    </>
+
+      );
 }
 
 export default App;

@@ -1,0 +1,11 @@
+.Header3_container{
+    background: var(--primary, #17696A);
+}
+.Header3_div{
+    font-size: 0.9rem;
+}
+@media screen and (max-width: 993px){
+    .Header3_div{
+        font-size: 0.6rem;
+    }
+}

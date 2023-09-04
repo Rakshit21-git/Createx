@@ -1,0 +1,128 @@
+.artno{
+    color: gray;
+    font-size: 0.8rem;
+}
+.divider{
+    width: 100%;
+    height: 1px;
+    background-color: rgb(235, 225, 225);
+}
+.hooded .carousel-indicators{
+    position: static;
+    justify-content: space-between;
+    margin-right: 1rem;
+    margin-left: 0;
+   
+    
+}
+.carousel_btn{
+    height: 30  rem;
+}
+.hooded .carousel-indicators [data-bs-slide-to]{
+    border-radius: 15px;
+}
+.hooded .carousel-indicators [data-bs-slide-to="0"]{
+    background-image: url(../../../public/assets/sweatshirt1.png);
+    height: 5rem;
+    width: 5rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.hooded .carousel-indicators [data-bs-slide-to="1"]{
+    background-image: url(../../../public/assets/sweatshirt3.png);
+    height: 5rem;
+    width: 5rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.hooded .carousel-indicators [data-bs-slide-to="2"]{
+    background-image: url(../../../public/assets/sweatshirt4.png);
+    height: 5rem;
+    width: 5rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.hooded .carousel-indicators [data-bs-slide-to="3"]{
+    background-image: url(../../../public/assets/sweatshirt5.png);
+    height: 5rem;
+    width: 5rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.hooded .carousel-indicators [data-bs-slide-to="4"]{
+    background-image: url(../../../public/assets/sweatshirt3.png);
+    height: 5rem;
+    width: 5rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.favourite_div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 1.9rem;
+}
+@media screen and (max-width:1200px) {
+    .basic_hooded_heading{
+        font-size: 2rem;
+    }
+    .hooded .carousel-indicators [data-bs-slide-to]{
+        height: 4rem;
+        width: 4rem;
+    }
+
+}
+@media screen and (max-width:992px){
+    .basic_hooded_heading{
+        font-size: 1.6rem;
+    }
+    .add_to_cart{
+        font-size: 0.7rem;
+        height: 2rem;
+        align-items: center;
+        display: flex;
+    }
+    .favourite{
+        font-size: 0.7rem;
+    }
+    .hooded .carousel-indicators [data-bs-slide-to]{
+        height: 3rem;
+        width: 3rem;
+    }
+    .price{
+        font-size: 0.8rem;
+    }
+}
+@media screen and (max-width:768px){
+    .basic_hooded_heading{
+        font-size: 1.2rem;
+        
+    }
+    .artno{      
+        font-size: 0.5rem;
+    }
+    .general_info_btn{
+        font-size: 0.6rem;
+    }
+    .hooded .carousel-indicators [data-bs-slide-to]{
+        height: 5rem;
+        width: 5rem;
+    }
+    .hooded_col2{
+        margin-top: 2rem;
+    }
+}
+@media screen and (max-width:502px){
+    .basic_hooded_heading{
+        font-size: 1rem;
+    }
+    .hooded .carousel-indicators [data-bs-slide-to]{
+        height: 3.5rem;
+        width: 3.5rem;
+    }
+}
