@@ -1,0 +1,29 @@
+.new_arrivals .react-multi-carousel-dot button{
+    width: 28px !important;
+    height: 4px !important;
+    border-radius: 0 !important;
+}
+.new_arrivals .card-body p{
+    font-size: 13px;
+}
+.new_arrivals .bottom-30{
+    bottom: 30%;
+}
+@media screen and (max-width : 768px){
+    .new_arrivals .card-body p {
+        font-size: 10px;
+    }
+    .new_arrivals .bottom-30 {
+        bottom: 35%;
+    }
+}
+@media screen and (max-width : 376px){
+    .new_arrivals .bottom-30 {
+        bottom: 38%;
+    }
+}
+@media screen and (max-width : 320px){
+    .new_arrivals .bottom-30 {
+        bottom: 43%;
+    }
+}

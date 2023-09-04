@@ -1,0 +1,99 @@
+.Interested{
+    background-color: 
+    #E5E8ED;
+    z-index: -1;
+}
+.Interested .card-body p{
+    font-size: 12px;
+}
+.Interested .bottom-30{
+    bottom: 31%;
+}
+ 
+.Interested .row{
+    --bs-gutter-x: 0;
+}
+.Interested .card-body{
+    background-color: 
+    #E5E8ED;
+    z-index: 0;
+}
+.Interested .jk{
+    position: relative;
+}
+
+.Interested .react-multi-carousel-list{
+    position:static;
+}
+ .react-multiple-carousel__arrow{
+    top:11%;
+    width: 43px;
+    height: 43px ;
+    min-width: none !important;
+    min-height: none !important;
+}
+.Interested .react-multiple-carousel__arrow--left {
+    left: calc(83% + 1px);
+}
+@media screen and (max-width : 1024px){
+    .Interested .react-multiple-carousel__arrow--left {
+        left: calc(75% + 1px);
+        
+    }
+    .Interested .react-multiple-carousel__arrow{
+        top:9%;
+    }
+}
+@media screen and (max-width : 768px){
+    .Interested .react-multiple-carousel__arrow--left {
+        left: calc(70% + 1px);
+    }
+    .Interested .bottom-30 {
+        bottom: 43%;
+    }
+}
+@media screen and (max-width : 376px){
+    .Interested .bottom-30 {
+        bottom: 42%;
+    } 
+    .Interested .heading{
+        font-size: 0.9rem !important;
+    }
+    .Interested .react-multiple-carousel__arrow--left {
+        left: calc(70% + 1px) !important;
+    }
+}
+@media screen and (max-width : 426px){
+    .Interested .heading{
+        font-size: 1.1rem;
+    }
+    .react-multiple-carousel__arrow::before {
+        font-size: 10px !important;
+}
+.react-multiple-carousel__arrow{
+    width: 23px !important;
+    height: 23px !important;
+}
+.Interested .react-multiple-carousel__arrow--left {
+    left: calc(73% + 1px);
+}
+.Interested .bottom-30 {
+    bottom: 30%;
+}
+
+}
+@media screen and (max-width : 320px){
+    .Interested .bottom-30 {
+        bottom: 35% !important;
+    }
+    .Interested .heading{
+        font-size: 0.7rem !important;
+    }
+    .Interested .react-multiple-carousel__arrow--left {
+        left: calc(65% + 1px) !important;
+    }
+    .Interested .btn{
+        width: 120px !important;
+        font-size: 12px !important;
+    }
+}

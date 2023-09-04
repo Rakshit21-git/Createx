@@ -1,0 +1,99 @@
+
+.Recently_Viewed .card-body p{
+    font-size: 12px;
+}
+.Recently_Viewed .bottom-30{
+    bottom: 30%;
+}
+ 
+.Recently_Viewed .row{
+    --bs-gutter-x: 0;
+}
+
+.Recently_Viewed .jk{
+    position: relative;
+}
+
+.Recently_Viewed .react-multi-carousel-list{
+    position:static;
+}
+ .react-multiple-carousel__arrow{
+    top:10%;
+    width: 43px;
+    height: 43px ;
+    min-width: none !important;
+    min-height: none !important;
+}
+.Recently_Viewed .react-multiple-carousel__arrow--left {
+    left: calc(83% + 1px);
+}
+@media screen and (max-width : 1024px){
+    .Recently_Viewed .react-multiple-carousel__arrow--left {
+        left: calc(75% + 1px);
+        
+    }
+    .Recently_Viewed .react-multiple-carousel__arrow{
+        top:9%;
+    }
+}
+@media screen and (max-width : 768px){
+    .Recently_Viewed .react-multiple-carousel__arrow--left {
+        left: calc(70% + 1px);
+    }
+    .Recently_Viewed .bottom-30 {
+        bottom: 40%;
+    }
+    .Recently_Viewed .card-body p {
+        font-size: 10px;
+    }
+}
+@media screen and (max-width : 376px){
+    .Recently_Viewed .bottom-30 {
+        bottom: 31% !important;
+    } 
+    .Recently_Viewed .heading{
+        font-size: 1.2rem !important;
+    }
+    .Recently_Viewed .react-multiple-carousel__arrow--left {
+        left: calc(70% + 1px) !important;
+    }
+}
+@media screen and (max-width : 426px){
+    .Recently_Viewed .heading{
+        font-size: 1.5rem;
+    }
+    .react-multiple-carousel__arrow::before {
+        font-size: 10px !important;
+}
+.react-multiple-carousel__arrow{
+    width: 23px !important;
+    height: 23px !important;
+}
+.Recently_Viewed .react-multiple-carousel__arrow--left {
+    left: calc(73% + 1px);
+}
+.Recently_Viewed .card-body p {
+    font-size: 12px;
+}
+.Recently_Viewed .bottom-30 {
+    bottom: 28%;
+}
+}
+@media screen and (max-width : 320px){
+    .Recently_Viewed .bottom-30 {
+        bottom: 35% !important;
+    }
+    .Recently_Viewed .heading{
+        font-size: 1rem !important;
+    }
+    .Recently_Viewed .react-multiple-carousel__arrow--left {
+        left: calc(65% + 1px) !important;
+    }
+    .Recently_Viewed .btn{
+        width: 120px !important;
+        font-size: 12px !important;
+    }
+    .Recently_Viewed .react-multiple-carousel__arrow {
+        top: 10.5% !important;
+    }
+}
