@@ -42,12 +42,12 @@ function Recently_Viewed() {
             <img
               className="position-relative"
             //   style={{ borderRadius: "20px" }}
-              src="images/New_Arrivals/6.png"
+              src="Assests/Images/New_Arrivals/6.png"
               alt="Card image"
             />
             <img
               className="position-absolute bottom-30 end-0 me-2"
-              src="images/New_Arrivals/wishlist.png"
+              src="Assests/Images/New_Arrivals/wishlist.png"
               alt="Card image"
             />
             <div className="card-body ">
@@ -60,17 +60,17 @@ function Recently_Viewed() {
             <img
               className="position-relative"
             //   style={{ borderRadius: "20px" }}
-              src="images/New_Arrivals/3.png"
+              src="Assests/Images/New_Arrivals/3.png"
               alt="Card image"
             />
             <img
               className="position-absolute top-0 end-0 mt-2 pe-2"
-              src="images/New_Arrivals/4star.png"
+              src="Assests/Images/New_Arrivals/4star.png"
               alt="Card image"
             />
             <img
               className="position-absolute bottom-30 end-0 me-2"
-              src="images/New_Arrivals/wishlist.png"
+              src="Assests/Images/New_Arrivals/wishlist.png"
               alt="Card image"
             />
             <div className="card-body ">
@@ -82,12 +82,12 @@ function Recently_Viewed() {
           <div className="card slider-card border-0 mb-5 mx-2">
               <img
                 className="position-relative"
-                src="images/Sale/shoe.png"
+                src="Assests/Images/Sale/shoe.png"
                 alt="Card image"
               />
               <img
                 className="position-absolute bottom-30 end-0 me-2"
-                src="images/New_Arrivals/wishlist.png"
+                src="Assests/Images/New_Arrivals/wishlist.png"
                 alt="Card image"
               />
               <div className="card-body ">
@@ -98,17 +98,17 @@ function Recently_Viewed() {
             <div className="card slider-card border-0 mb-5 mx-2">
               <img
                 className="position-relative"
-                src="images/Sale/2.png"
+                src="Assests/Images/Sale/2.png"
                 alt="Card image"
               />
                <img
                 className="position-absolute top-0 start-0 mt-2 ps-2 w-25"
-                src="images/Sale/50.png"
+                src="Assests/Images/Sale/50.png"
                 alt="Card image"
               />
               <img
                 className="position-absolute bottom-30 end-0 me-2"
-                src="images/New_Arrivals/wishlist.png"
+                src="Assests/Images/New_Arrivals/wishlist.png"
                 alt="Card image"
               />
               <div className="card-body ">
@@ -120,12 +120,12 @@ function Recently_Viewed() {
             <img
               className="position-relative"
             //   style={{ borderRadius: "20px" }}
-              src="images/New_Arrivals/6.png"
+              src="Assests/Images/New_Arrivals/6.png"
               alt="Card image"
             />
             <img
               className="position-absolute bottom-30 end-0 me-2"
-              src="images/New_Arrivals/wishlist.png"
+              src="Assests/Images/New_Arrivals/wishlist.png"
               alt="Card image"
             />
             <div className="card-body ">
@@ -138,17 +138,17 @@ function Recently_Viewed() {
             <img
               className="position-relative"
             //   style={{ borderRadius: "20px" }}
-              src="images/New_Arrivals/3.png"
+              src="Assests/Images/New_Arrivals/3.png"
               alt="Card image"
             />
             <img
               className="position-absolute top-0 end-0 mt-2 pe-2"
-              src="images/New_Arrivals/4star.png"
+              src="Assests/Images/New_Arrivals/4star.png"
               alt="Card image"
             />
             <img
               className="position-absolute bottom-30 end-0 me-2"
-              src="images/New_Arrivals/wishlist.png"
+              src="Assests/Images/New_Arrivals/wishlist.png"
               alt="Card image"
             />
             <div className="card-body ">
@@ -160,12 +160,12 @@ function Recently_Viewed() {
           <div className="card slider-card border-0 mb-5 mx-2">
               <img
                 className="position-relative"
-                src="images/Sale/shoe.png"
+                src="Assests/Images/Sale/shoe.png"
                 alt="Card image"
               />
               <img
                 className="position-absolute bottom-30 end-0 me-2"
-                src="images/New_Arrivals/wishlist.png"
+                src="Assests/Images/New_Arrivals/wishlist.png"
                 alt="Card image"
               />
               <div className="card-body ">
@@ -176,17 +176,17 @@ function Recently_Viewed() {
             <div className="card slider-card border-0 mb-5 mx-2">
               <img
                 className="position-relative"
-                src="images/Sale/2.png"
+                src="Assests/Images/Sale/2.png"
                 alt="Card image"
               />
                <img
                 className="position-absolute top-0 start-0 mt-2 ps-2 w-25"
-                src="images/Sale/50.png"
+                src="Assests/Images/Sale/50.png"
                 alt="Card image"
               />
               <img
                 className="position-absolute bottom-30 end-0 me-2"
-                src="images/New_Arrivals/wishlist.png"
+                src="Assests/Images/New_Arrivals/wishlist.png"
                 alt="Card image"
               />
               <div className="card-body ">

@@ -34,17 +34,17 @@ function New_Arrivals() {
             <img
               className="position-relative"
               style={{ borderRadius: "20px" }}
-              src="images/New_Arrivals/1.png"
+              src="Assests/Images/New_Arrivals/1.png"
               alt="Card image"
             />
             <img
               className="position-absolute top-0 end-0 mt-2 pe-2"
-              src="images/New_Arrivals/5star.png"
+              src="Assests/Images/New_Arrivals/5star.png"
               alt="Card image"
             />
             <img
               className="position-absolute bottom-30 end-0 me-2"
-              src="images/New_Arrivals/wishlist.png"
+              src="Assests/Images/New_Arrivals/wishlist.png"
               alt="Card image"
             />
             <div className="card-body ">
@@ -57,12 +57,12 @@ function New_Arrivals() {
             <img
               className="position-relative"
               style={{ borderRadius: "20px" }}
-              src="images/New_Arrivals/2.png"
+              src="Assests/Images/New_Arrivals/2.png"
               alt="Card image"
             />
             <img
               className="position-absolute bottom-30 end-0 me-2"
-              src="images/New_Arrivals/wishlist.png"
+              src="Assests/Images/New_Arrivals/wishlist.png"
               alt="Card image"
             />
             <div className="card-body ">
@@ -75,17 +75,17 @@ function New_Arrivals() {
             <img
               className="position-relative"
               style={{ borderRadius: "20px" }}
-              src="images/New_Arrivals/3.png"
+              src="Assests/Images/New_Arrivals/3.png"
               alt="Card image"
             />
             <img
               className="position-absolute top-0 end-0 mt-2 pe-2"
-              src="images/New_Arrivals/4star.png"
+              src="Assests/Images/New_Arrivals/4star.png"
               alt="Card image"
             />
             <img
               className="position-absolute bottom-30 end-0 me-2"
-              src="images/New_Arrivals/wishlist.png"
+              src="Assests/Images/New_Arrivals/wishlist.png"
               alt="Card image"
             />
             <div className="card-body ">
@@ -98,12 +98,12 @@ function New_Arrivals() {
             <img
               className="position-relative"
               style={{ borderRadius: "20px" }}
-              src="images/New_Arrivals/4.png"
+              src="Assests/Images/New_Arrivals/4.png"
               alt="Card image"
             />
             <img
               className="position-absolute bottom-30 end-0 me-2"
-              src="images/New_Arrivals/wishlist.png"
+              src="Assests/Images/New_Arrivals/wishlist.png"
               alt="Card image"
             />
             <div className="card-body ">
@@ -116,17 +116,17 @@ function New_Arrivals() {
             <img
               className="position-relative"
               style={{ borderRadius: "20px" }}
-              src="images/New_Arrivals/5.png"
+              src="Assests/Images/New_Arrivals/5.png"
               alt="Card image"
             />
             <img
               className="position-absolute top-0 end-0 mt-2 pe-2"
-              src="images/New_Arrivals/5star.png"
+              src="Assests/Images/New_Arrivals/5star.png"
               alt="Card image"
             />
             <img
               className="position-absolute bottom-30 end-0 me-2"
-              src="images/New_Arrivals/wishlist.png"
+              src="Assests/Images/New_Arrivals/wishlist.png"
               alt="Card image"
             />
             <div className="card-body ">
@@ -139,12 +139,12 @@ function New_Arrivals() {
             <img
               className="position-relative"
               style={{ borderRadius: "20px" }}
-              src="images/New_Arrivals/6.png"
+              src="Assests/Images/New_Arrivals/6.png"
               alt="Card image"
             />
             <img
               className="position-absolute bottom-30 end-0 me-2"
-              src="images/New_Arrivals/wishlist.png"
+              src="Assests/Images/New_Arrivals/wishlist.png"
               alt="Card image"
             />
             <div className="card-body ">
@@ -157,17 +157,17 @@ function New_Arrivals() {
             <img
               className="position-relative"
               style={{ borderRadius: "20px" }}
-              src="images/New_Arrivals/1.png"
+              src="Assests/Images/New_Arrivals/1.png"
               alt="Card image"
             />
             <img
               className="position-absolute top-0 end-0 mt-2 pe-2"
-              src="images/New_Arrivals/5star.png"
+              src="Assests/Images/New_Arrivals/5star.png"
               alt="Card image"
             />
             <img
               className="position-absolute bottom-30 end-0 me-2"
-              src="images/New_Arrivals/wishlist.png"
+              src="Assests/Images/New_Arrivals/wishlist.png"
               alt="Card image"
             />
             <div className="card-body ">
@@ -180,12 +180,12 @@ function New_Arrivals() {
             <img
               className="position-relative"
               style={{ borderRadius: "20px" }}
-              src="images/New_Arrivals/2.png"
+              src="Assests/Images/New_Arrivals/2.png"
               alt="Card image"
             />
             <img
               className="position-absolute bottom-30 end-0 me-2"
-              src="images/New_Arrivals/wishlist.png"
+              src="Assests/Images/New_Arrivals/wishlist.png"
               alt="Card image"
             />
             <div className="card-body ">

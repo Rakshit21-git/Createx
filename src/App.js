@@ -49,6 +49,12 @@ import Header2 from './components/Header/Header2';
 import Header3 from './components/Header/Header3';
 import New_collection from './components/New_Collection/New_collection';
 import Shipping from './components/shipping/Shipping';
+import Interested from './components/You May Be Interested/Interested';
+import New_Arrivals from './components/New Arrivals/New_Arrivals';
+import Recently_Viewed from './components/Recently Viewed/Recently_Viewed';
+import Sale from './components/Sale up to 70%/Sale';
+import TrendingNow from './components/Trending Now/TrendingNow';
+import Your_Look from './components/Complete Your Look/Your_Look';
 import Subscribe_for_updates from './components/Subscribe_for_updates/Subscribe_for_updates';
 
 
@@ -66,6 +72,16 @@ function App() {
           <Route path='/new' element={<New_collection />}></Route>
           <Route path='/ship' element={<Shipping />}></Route>
           <Route path='/subs' element={<Subscribe_for_updates />}></Route>
+          <Route path='/baner' element={<Baner />}></Route>
+          <Route path='/fashion' element={<FashionBlog />}></Route>
+          <Route path='/brands' element={<Brands />}></Route>
+          <Route path='/PopularCategory' element={<PopularCategory />}></Route>
+          <Route path='/Interested' element={<Interested />}></Route>
+          <Route path='/TrendingNow' element={<TrendingNow />}></Route>
+          <Route path='/Sale' element={<Sale />}></Route>
+          <Route path='/Recently_Viewed' element={<Recently_Viewed />}></Route>
+          <Route path='/New_Arrivals' element={<New_Arrivals />}></Route>
+          <Route path='/Your_Look' element={<Your_Look />}></Route>
         </Routes>
       </BrowserRouter>
       {/* <Header1/> */}

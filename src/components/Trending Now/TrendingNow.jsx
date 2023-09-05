@@ -41,17 +41,17 @@ function TrendingNow() {
             <div className="card slider-card border-0 mb-5 mx-2">
               <img
                 className="position-relative"
-                src="images/Trending_Now/1.png"
+                src="Assests/Images/Trending_Now/1.png"
                 alt="Card image"
               />
               <img
                 className="position-absolute top-0 end-0 mt-2 pe-2"
-                src="images/New_Arrivals/5star.png"
+                src="Assests/Images/New_Arrivals/5star.png"
                 alt="Card image"
               />
               <img
                 className="position-absolute bottom-30 end-0 me-2"
-                src="images/New_Arrivals/wishlist.png"
+                src="Assests/Images/New_Arrivals/wishlist.png"
                 alt="Card image"
               />
               <div className="card-body ">
@@ -62,17 +62,17 @@ function TrendingNow() {
             <div className="card slider-card border-0 mb-5 mx-2">
               <img
                 className="position-relative"
-                src="images/Trending_Now/2.png"
+                src="Assests/Images/Trending_Now/2.png"
                 alt="Card image"
               />
               <img
                 className="position-absolute top-0 end-0 mt-2 pe-2"
-                src="images/New_Arrivals/4star.png"
+                src="Assests/Images/New_Arrivals/4star.png"
                 alt="Card image"
               />
               <img
                 className="position-absolute bottom-30 end-0 me-2"
-                src="images/New_Arrivals/wishlist.png"
+                src="Assests/Images/New_Arrivals/wishlist.png"
                 alt="Card image"
               />
               <div className="card-body ">
@@ -83,13 +83,13 @@ function TrendingNow() {
             <div className="card slider-card border-0 mb-5 mx-2">
               <img
                 className="position-relative"
-                src="images/Trending_Now/3.png"
+                src="Assests/Images/Trending_Now/3.png"
                 alt="Card image"
               />
               
               <img
                 className="position-absolute bottom-30 end-0 me-2"
-                src="images/New_Arrivals/wishlist.png"
+                src="Assests/Images/New_Arrivals/wishlist.png"
                 alt="Card image"
               />
               <div className="card-body ">
@@ -100,17 +100,17 @@ function TrendingNow() {
             <div className="card slider-card border-0 mb-5 mx-2">
               <img
                 className="position-relative"
-                src="images/Trending_Now/1.png"
+                src="Assests/Images/Trending_Now/1.png"
                 alt="Card image"
               />
               <img
                 className="position-absolute top-0 end-0 mt-2 pe-2"
-                src="images/New_Arrivals/5star.png"
+                src="Assests/Images/New_Arrivals/5star.png"
                 alt="Card image"
               />
               <img
                 className="position-absolute bottom-30 end-0 me-2"
-                src="images/New_Arrivals/wishlist.png"
+                src="Assests/Images/New_Arrivals/wishlist.png"
                 alt="Card image"
               />
               <div className="card-body ">
@@ -121,17 +121,17 @@ function TrendingNow() {
             <div className="card slider-card border-0 mb-5 mx-2">
               <img
                 className="position-relative"
-                src="images/Trending_Now/2.png"
+                src="Assests/Images/Trending_Now/2.png"
                 alt="Card image"
               />
               <img
                 className="position-absolute top-0 end-0 mt-2 pe-2"
-                src="images/New_Arrivals/4star.png"
+                src="Assests/Images/New_Arrivals/4star.png"
                 alt="Card image"
               />
               <img
                 className="position-absolute bottom-30 end-0 me-2"
-                src="images/New_Arrivals/wishlist.png"
+                src="Assests/Images/New_Arrivals/wishlist.png"
                 alt="Card image"
               />
               <div className="card-body ">
@@ -142,13 +142,13 @@ function TrendingNow() {
             <div className="card slider-card border-0 mb-5 mx-2">
               <img
                 className="position-relative"
-                src="images/Trending_Now/3.png"
+                src="Assests/Images/Trending_Now/3.png"
                 alt="Card image"
               />
               
               <img
                 className="position-absolute bottom-30 end-0 me-2"
-                src="images/New_Arrivals/wishlist.png"
+                src="Assests/Images/New_Arrivals/wishlist.png"
                 alt="Card image"
               />
               <div className="card-body ">

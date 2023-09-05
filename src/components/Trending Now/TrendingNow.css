@@ -4,7 +4,7 @@
     z-index: -1;
 }
 .TrendingNow .card-body p{
-    font-size: 12px;
+    font-size: 11px;
 }
 .TrendingNow .bottom-30{
     bottom: 30%;
@@ -29,8 +29,8 @@
     top:11%;
     width: 43px;
     height: 43px ;
-    min-width: none !important;
-    min-height: none !important;
+    min-width: 0 !important;
+    min-height: 0 !important;
 }
 .TrendingNow .react-multiple-carousel__arrow--left {
     left: calc(83% + 1px);

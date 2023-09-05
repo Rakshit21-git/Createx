@@ -29,8 +29,8 @@
     top:11%;
     width: 43px;
     height: 43px ;
-    min-width: none !important;
-    min-height: none !important;
+    min-width: 0px !important;
+    min-height: 0px !important;
 }
 .Interested .react-multiple-carousel__arrow--left {
     left: calc(83% + 1px);

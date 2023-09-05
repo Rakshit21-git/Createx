@@ -11,7 +11,7 @@
 }
 @media screen and (max-width : 768px){
     .new_arrivals .card-body p {
-        font-size: 10px;
+        font-size: 9px;
     }
     .new_arrivals .bottom-30 {
         bottom: 35%;

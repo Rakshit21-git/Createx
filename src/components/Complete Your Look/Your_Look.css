@@ -1,0 +1,45 @@
+.your_look .react-multi-carousel-dot button{
+    width: 28px !important;
+    height: 4px !important;
+    border-radius: 0 !important;
+}
+.your_look .card-body p{
+    font-size: 13px;
+}
+.your_look .bottom-30{
+    bottom: 30%;
+}
+@media screen and (max-width : 768px){
+    .your_look .card-body p {
+        font-size: 9px;
+    }
+    .your_look .bottom-30 {
+        bottom: 35%;
+    }
+}
+@media screen and (max-width : 376px){
+    .your_look .bottom-30 {
+        bottom: 38%;
+    }
+}
+@media screen and (max-width : 320px){
+    .your_look .bottom-30 {
+        bottom: 43%;
+    }
+}
+.your_look .jk{
+    position: relative;
+}
+
+.your_look .react-multi-carousel-list{
+    position:static;
+}
+.your_look .react-multiple-carousel__arrow--left {
+    left: calc(78% + 1px);
+}
+.your_look .react-multiple-carousel__arrow {
+    top: 1% !important;
+}
+.your_look .react-multi-carousel-dot-list{
+    bottom: 30%;
+}
