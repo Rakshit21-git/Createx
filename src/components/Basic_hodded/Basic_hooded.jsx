@@ -31,19 +31,19 @@ function Basic_hooded() {
                             
                             <div class="carousel-inner">
                                 <div class="carousel-item active">
-                                    <img src="./assets/sweatshirt1.png" class="d-block w-100" alt="..."/>
+                                    <img src="./Assests/Images/sweatshirt1.png" class="d-block w-100" alt="..."/>
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="./assets/sweatshirt3.png" class="d-block w-100" alt="..."/>
+                                    <img src="./Assests/Images/sweatshirt3.png" class="d-block w-100" alt="..."/>
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="./assets/sweatshirt4.png" class="d-block w-100" alt="..."/>
+                                    <img src="./Assests/Images/sweatshirt4.png" class="d-block w-100" alt="..."/>
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="./assets/sweatshirt5.png" class="d-block w-100" alt="..."/>
+                                    <img src="./Assests/Images/sweatshirt5.png" class="d-block w-100" alt="..."/>
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="./assets/sweatshirt3.png" class="d-block w-100" alt="..."/>
+                                    <img src="./Assests/Images/sweatshirt3.png" class="d-block w-100" alt="..."/>
                                 </div>
                             </div>
                             <div class="carousel-indicators row">
@@ -89,11 +89,11 @@ function Basic_hooded() {
                             <div className="col-6">
                                 <div className="row">
                                     <div className="col-12 d-flex justify-content-center">
-                                        <img src="/assets/filled.svg" alt="Not Available" />
-                                        <img src="/assets/filled.svg" alt="Not Available" />
-                                        <img src="/assets/filled.svg" alt="Not Available" />
-                                        <img src="/assets/filled.svg" alt="Not Available" />
-                                        <img src="/assets/outline.svg" alt="Not Available" />
+                                        <img src="/Assests/Images/filled.svg" alt="Not Available" />
+                                        <img src="/Assests/Images/filled.svg" alt="Not Available" />
+                                        <img src="/Assests/Images/filled.svg" alt="Not Available" />
+                                        <img src="/Assests/Images/filled.svg" alt="Not Available" />
+                                        <img src="/Assests/Images/outline.svg" alt="Not Available" />
                                     </div>
                                     <div className="col-12 d-flex justify-content-center">
                                         <span>12 reviews</span>
@@ -107,9 +107,9 @@ function Basic_hooded() {
                                 <span>Color</span>
                             </div>
                             <div className="col-12 mb-3">
-                                <img className='me-1' src="./assets/color-swatch-active.svg" alt="Not Available" />
-                                <img className='me-1' src="./assets/color-swatch-yellow.svg" alt="Not Available" />
-                                <img className='me-1' src="./assets/color-swatch-blue.svg" alt="Not Available" />
+                                <img className='me-1' src="./Assests/Images/color-swatch-active.svg" alt="Not Available" />
+                                <img className='me-1' src="./Assests/Images/color-swatch-yellow.svg" alt="Not Available" />
+                                <img className='me-1' src="./Assests/Images/color-swatch-blue.svg" alt="Not Available" />
                                 <span className='me-2'>Pink</span>
                             </div>
                         </div>
@@ -129,7 +129,7 @@ function Basic_hooded() {
                                     </select>
                                 </div>
                                 <div className="col-6 d-flex justify-content-end  align-items-center">
-                                    <img src="./assets/hanger.svg" alt="not available" className='img-fuid me-2' style={{ width: "20px", height: "20px" }} />
+                                    <img src="./Assests/Images/hanger.svg" alt="not available" className='img-fuid me-2' style={{ width: "20px", height: "20px" }} />
                                     <span>Size Chart</span>
                                 </div>
                             </div>
@@ -147,7 +147,7 @@ function Basic_hooded() {
                                 <div className="col-5 favourite">
                                     <div  style={{ border: "1px solid #17696A", color: "#17696A" }} >
                                         <div className="favourite_div">
-                                        <img className='mx-sm-2 mx-1' src="./assets/heart2.svg" alt="Not Available" />
+                                        <img className='mx-sm-2 mx-1' src="./Assests/Images/heart2.svg" alt="Not Available" />
                                         <span>Favourite</span>
                                         </div>
                                     </div>
@@ -200,11 +200,11 @@ function Basic_hooded() {
                                 You have 60 days to return the item(s) using any of the following methods:
                             </div>
                             <div className="col-12 mt-3">
-                                <img className='me-3' src="./assets/bullet.svg" alt="Not Available" />
+                                <img className='me-3' src="./Assests/Images/bullet.svg" alt="Not Available" />
                                 <span>Free store return</span>
                             </div>
                             <div className="col-12 mt-3">
-                                <img className='me-3' src="./assets/bullet.svg" alt="Not Available" />
+                                <img className='me-3' src="./Assests/Images/bullet.svg" alt="Not Available" />
                                 <span>Free returns via USPS Dropoff Service</span>
                             </div>
                         </div>
@@ -216,14 +216,14 @@ function Basic_hooded() {
                         <div className="row mt-3">
                             <div className="col-12">
                                 Share : 
-                                <img className='mx-3' src="./assets/Facebook2.svg" alt="Not Available" />
-                                <img className='mx-3' src="./assets/Twitter2.svg" alt="Not Available" />
-                                <img className='mx-3' src="./assets/pinterest2.svg" alt="Not Available" />
+                                <img className='mx-3' src="./Assests/Images/Facebook2.svg" alt="Not Available" />
+                                <img className='mx-3' src="./Assests/Images/Twitter2.svg" alt="Not Available" />
+                                <img className='mx-3' src="./Assests/Images/pinterest2.svg" alt="Not Available" />
                             </div>
                             <div className="col-12 mt-3 mb-3">
-                                <img className='mx-3 mt-4' src="./assets/visa.svg" alt="Not Available" />
-                                <img className='mx-3 mt-4' src="./assets/master-card.svg" alt="Not Available" />
-                                <img className='mx-3 mt-4' src="./assets/pay-pal.svg" alt="Not Available" />
+                                <img className='mx-3 mt-4' src="./Assests/Images/visa.svg" alt="Not Available" />
+                                <img className='mx-3 mt-4' src="./Assests/Images/master-card.svg" alt="Not Available" />
+                                <img className='mx-3 mt-4' src="./Assests/Images/pay-pal.svg" alt="Not Available" />
                             </div>
                         </div>
                     </div>
