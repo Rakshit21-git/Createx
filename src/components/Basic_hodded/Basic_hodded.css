@@ -22,7 +22,7 @@
     border-radius: 15px;
 }
 .hooded .carousel-indicators [data-bs-slide-to="0"]{
-    background-image: url(../../../public/assets/sweatshirt1.png);
+    background-image: url(../../../public/Assests/Images/sweatshirt1.png);
     height: 5rem;
     width: 5rem;
     background-repeat: no-repeat;
@@ -30,7 +30,7 @@
     background-position: center;
 }
 .hooded .carousel-indicators [data-bs-slide-to="1"]{
-    background-image: url(../../../public/assets/sweatshirt3.png);
+    background-image: url(../../../public/Assests/Images/sweatshirt3.png);
     height: 5rem;
     width: 5rem;
     background-repeat: no-repeat;
@@ -38,7 +38,7 @@
     background-position: center;
 }
 .hooded .carousel-indicators [data-bs-slide-to="2"]{
-    background-image: url(../../../public/assets/sweatshirt4.png);
+    background-image: url(../../../public/Assests/Images/sweatshirt4.png);
     height: 5rem;
     width: 5rem;
     background-repeat: no-repeat;
@@ -46,7 +46,7 @@
     background-position: center;
 }
 .hooded .carousel-indicators [data-bs-slide-to="3"]{
-    background-image: url(../../../public/assets/sweatshirt5.png);
+    background-image: url(../../../public/Assests/Images/sweatshirt5.png);
     height: 5rem;
     width: 5rem;
     background-repeat: no-repeat;
@@ -54,7 +54,7 @@
     background-position: center;
 }
 .hooded .carousel-indicators [data-bs-slide-to="4"]{
-    background-image: url(../../../public/assets/sweatshirt3.png);
+    background-image: url(../../../public/Assests/Images/sweatshirt3.png);
     height: 5rem;
     width: 5rem;
     background-repeat: no-repeat;

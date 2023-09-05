@@ -1,7 +1,7 @@
-@media (max-width:425px) {
+/* @media (min-width:319px) and  (max-width:425px) {
     .ClassThird {
         margin-bottom: 50px;
-        /* text-align: center; */
+        text-align: center;
     }
 
     .FlexClass {
@@ -12,10 +12,12 @@
     .ClassThird {
         text-align: center;
     }
-    .img-fluid{
+
+    .img-fluid {
         margin-bottom: 20px;
         display: flex;
         justify-content: center;
+        margin-right: 0 !important;
     }
 }
 
@@ -23,15 +25,36 @@
     .ClassThird {
         margin-bottom: 50px;
     }
+
     .FlexClass {
         display: flex;
         justify-content: center;
-        
+
     }
-    .img-fluid{
+
+    .img-fluid {
         margin-bottom: 20px;
         display: flex;
         justify-content: center;
-        margin-right: 0!important;
+        margin-right: 0 !important;
+    }
+} */
+
+@media (min-width:319px) and  (max-width:425px) {
+    .FlexClass {
+        display: flex;
+        justify-content: center;
+    }
+
+    .ClassThird {
+        margin-bottom: 50px;
+        text-align: center;
+    }
+
+    .img-fluid {
+        margin-bottom: 20px;
+        display: flex;
+        justify-content: center;
+        margin-right: 0 !important;
     }
 }

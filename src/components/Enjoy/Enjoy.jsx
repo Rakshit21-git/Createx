@@ -5,14 +5,14 @@ import './Enjoy.css'
  function Enjoy() {
   return (
     <div className='container-fluid col-lg-12'>
-        <div className='row d-flex'>
+        <div className='row enjoy d-flex'>
         
-          <div className='col-lg-6'>
-            <img src="image.png" alt="" />
+          <div className='col-lg-6 mb-2'>
+            <img src="./Assests/Images/lampu_sa_rakshit.png" alt="not " />
           </div>
-          <div className='col-lg-6 mt-4'>
-            <h1>Enjoy mobile shopping with our Createx <br /> Store App!</h1>
-            <img src="buttons.png" alt="" className='mt-5' />
+          <div className='col-lg-6 mt-4 '>
+            <h1 className='enjoyh1'>Enjoy mobile shopping with our Createx <br /> Store App!</h1>
+            <img src="./Assests/Images/buttons.png" alt="not available" className='mt-5' />
           </div>
         </div>
 
