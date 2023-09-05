@@ -120,7 +120,7 @@ function Interested() {
                 <h5 className="">$49.95</h5>
               </div>
             </div>
-<<<<<<< HEAD
+
           <div className="card slider-card border-0 mb-5 mx-2">
             <img
               className="position-relative"

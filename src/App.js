@@ -17,15 +17,10 @@ import New_Arrivals from './components/New Arrivals/New_Arrivals';
 import Recently_Viewed from './components/Recently Viewed/Recently_Viewed';
 import Sale from './components/Sale up to 70%/Sale';
 import TrendingNow from './components/Trending Now/TrendingNow';
-import Your_Look from './components/Complete Your Look/Your_Look';
 import Subscribe_for_updates from './components/Subscribe_for_updates/Subscribe_for_updates';
-import Sale from './components/Sale up to 70%/Sale';
-import New_Arrivals from './components/New Arrivals/New_Arrivals';
-import Recently_Viewed from './components/Recently Viewed/Recently_Viewed';
-import Interested from './components/You May Be Interested/Interested';
 import Footer from './components/Footer/Footer';
-import TrendingNow from './components/Trending Now/TrendingNow';
 import Basic_hooded from './components/Basic_hodded/Basic_hooded';
+import Your_Look from './components/Complete Your Look/Your_Look';
 
 function App() {
   return (
@@ -39,6 +34,7 @@ function App() {
           <Route path='/footer' element={<Footer />}></Route>
           <Route path='/newA' element={<New_Arrivals />}></Route>
           <Route path='/pc' element={<PopularCategory />}></Route>
+          <Route path='/look' element={<Your_Look />}></Route>
           <Route path='/baner' element={<Baner />}></Route>
           <Route path='/basicHood' element={<Basic_hooded />}></Route>
           <Route path='/brand' element={<Brands />}></Route>
