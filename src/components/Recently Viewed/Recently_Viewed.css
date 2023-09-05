@@ -21,8 +21,8 @@
     top:10%;
     width: 43px;
     height: 43px ;
-    min-width: none !important;
-    min-height: none !important;
+    min-width: 0 !important;
+    min-height: 0 !important;
 }
 .Recently_Viewed .react-multiple-carousel__arrow--left {
     left: calc(83% + 1px);
