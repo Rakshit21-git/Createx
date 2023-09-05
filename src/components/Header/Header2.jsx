@@ -82,7 +82,7 @@ function Header2() {
                                                     <li>Gloves</li>
                                                     <li>Socks & tights</li>
                                                 </div>
-                                                <div className="col-1 vr  divider"></div>
+                                                {/* <div className="col-1 vr  divider"></div> */}
                                                 <div className="col-lg-3 col-12 Header_dropdown_items">
                                                     <img className='dropdown_img' src="./Assests/Images/image.png" alt="" />
                                                     <div className='my-2' style={{fontSize:"0.8rem "}}>Back to school. Sale up to 50%</div>

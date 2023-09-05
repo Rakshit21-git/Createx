@@ -102,6 +102,8 @@ function New_collection() {
                     </div>
                 </div>
             </div>
+
+            <div className="row bottomclass"></div>
         </>
     )
 }

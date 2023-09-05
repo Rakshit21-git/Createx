@@ -21,19 +21,31 @@ import Subscribe_for_updates from './components/Subscribe_for_updates/Subscribe_
 import Footer from './components/Footer/Footer';
 import Basic_hooded from './components/Basic_hodded/Basic_hooded';
 import Your_Look from './components/Complete Your Look/Your_Look';
+import Enjoy from './components/Enjoy/Enjoy';
+import HomePage from './components/HomePage/HomePage';
+import SingleProduct from './components/SingleProduct/SingleProduct';
 
 function App() {
   return (
     <>
       <BrowserRouter>
+        <MainHeader />
+
         <Routes>
-          <Route path='/header1' element={<Header1 />}></Route>
+
+          <Route path='/' element={<HomePage />}></Route>
+          <Route path='/sp' element={<SingleProduct />}></Route>
+
+
+          {/* <Route path='/header1' element={<Header1 />}></Route>
+          <Route path='/' element={<HomePage />}></Route>
           <Route path='/header2' element={<Header2  />}></Route>
           <Route path='/header3' element={<Header3 />}></Route>
           <Route path='/Header' element={<MainHeader />}></Route>
           <Route path='/footer' element={<Footer />}></Route>
           <Route path='/newA' element={<New_Arrivals />}></Route>
           <Route path='/pc' element={<PopularCategory />}></Route>
+          <Route path='/enjoy' element={<Enjoy />}></Route>
           <Route path='/look' element={<Your_Look />}></Route>
           <Route path='/baner' element={<Baner />}></Route>
           <Route path='/basicHood' element={<Basic_hooded />}></Route>
@@ -48,8 +60,9 @@ function App() {
           <Route path='/rv' element={<Recently_Viewed />}></Route>
           <Route path='/Interest' element={<Interested />}></Route>
           <Route path='/Trend' element={<TrendingNow />}></Route>
-          <Route path='/' element={<Breadcrump />}></Route>
+          <Route path='/bread' element={<Breadcrump />}></Route> */}
         </Routes>
+        <Footer />
       </BrowserRouter>
     </>
   );
