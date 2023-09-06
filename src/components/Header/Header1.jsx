@@ -7,10 +7,10 @@ function Header1() {
             <div className='Header1_container pt-2'>
                 <div className="container">
                     <div className="row text-light">
-                        <div className="col-md-3 col-12 my-auto d-flex justify-content-center">
+                        <div className="col-md-3 col-12 my-auto avaiSpace d-flex justify-content-center">
                             <div><span style={{ color: " rgba(255, 255, 255, 1); " }}>Available 24/7 at</span> (405) 555-0128</div>
                         </div>
-                        <div className="col-lg-5 col-md-4 col-sm-6 col-12 my-auto d-flex justify-content-around ">
+                        <div className="col-lg-5 col-md-4 col-sm-6 col-12 space my-auto d-flex justify-content-around ">
                             <div className="">Delivery & returns</div>
                             <div className="">Track order</div>
                             <div className="">Blog</div>
