@@ -9,12 +9,24 @@
 .your_look .bottom-30{
     bottom: 30%;
 }
+@media screen and (max-width : 992px){
+    .your_look_header{
+        font-size: 1.5rem;
+        margin-bottom: 2rem;
+    }
+    .your_look .react-multi-carousel-dot-list{
+        bottom: 10%!important;
+    }
+}
 @media screen and (max-width : 768px){
     .your_look .card-body p {
         font-size: 9px;
     }
     .your_look .bottom-30 {
         bottom: 35%;
+    }
+    .your_look_first{
+        margin-bottom: 2rem;
     }
 }
 @media screen and (max-width : 376px){
@@ -41,5 +53,9 @@
     top: 1% !important;
 }
 .your_look .react-multi-carousel-dot-list{
-    bottom: 30%;
+    bottom: 20%;
+}
+.your_look_img{
+    width: 100%;
+    height: auto;
 }
