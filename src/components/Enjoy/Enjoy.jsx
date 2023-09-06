@@ -8,11 +8,11 @@ import './Enjoy.css'
         <div className='row enjoy d-flex'>
         
           <div className='col-lg-6 mb-2'>
-            <img src="./Assests/Images/lampu_sa_rakshit.png" alt="not " />
+            <img src="./Assests/Images/lampu_sa_rakshit.png" alt="not " className='img-fluid' />
           </div>
           <div className='col-lg-6 mt-4 '>
             <h1 className='enjoyh1'>Enjoy mobile shopping with our Createx <br /> Store App!</h1>
-            <img src="./Assests/Images/buttons.png" alt="not available" className='mt-5' />
+            <img src="./Assests/Images/buttons.png" alt="not available" className='mt-5 img-fluid' />
           </div>
         </div>
 

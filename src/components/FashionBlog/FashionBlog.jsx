@@ -12,7 +12,7 @@ const FashionBlog = () => {
                     </div>
                 </div>
                 <div className="row row-cols-1 row-cols-md-2 g-4 mt-3">
-                    <div className="col-6">
+                    <div className="col-sm-12 col-lg-6">
                         <div className="card h-100">
                             <img src="./Assests/Images/blog1.jpg" className="card-img-top" alt="..." />
                             <div className="card-body">
@@ -22,7 +22,7 @@ const FashionBlog = () => {
                             </div>
                         </div>
                     </div>
-                    <div className="col-6">
+                    <div className="col-sm-12 col-lg-6">
                         <div className="card h-100">
                             <img src="./Assests/Images/Blog2.png" className="card-img-top" alt="..." />
                             <div className="card-body">
