@@ -2,6 +2,15 @@ import React from 'react'
 import './Footer.css'
 
 function Footer() {
+  const scrollToTop=()=>{
+    window.scrollTo({
+        top: 0, 
+        behavior: 'smooth' 
+        
+    }
+    )
+    console.log("first")
+}
   return (
     <>
       <div className='Footer_container'>
@@ -52,9 +61,10 @@ function Footer() {
           <div className="col-md-4 col-12 text-center">
         <div className='Fd'>© All rights reserved. Made with <img src="Assests/Images/green_heart.svg" alt="" /> by Createx Studio</div> 
         </div>
-        <div className="col-md-2 col-12 Fd text-center">
-          Go to top
-        </div>
+        {/* <div className="col-md-2 col-12 Fd text-center">
+         
+        </div> */}
+        <div class="col-md-2 col-12 Fd text-center" role='button' onClick={scrollToTop}>Go to top</div>
           </div>
         </div>
       </div>
