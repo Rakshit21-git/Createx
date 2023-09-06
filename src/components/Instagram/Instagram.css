@@ -39,15 +39,18 @@
         height: auto!important;
     }
 }
-@media (min-width:769px) and (max-width:1199px) {
+@media (min-width:769px) and (max-width:991px) {
     .img-fluid {
-        width: 237px;
+        margin-right: auto;
+        margin-left: auto;
+        margin-top: 30px;
     }
-    
 }
-@media (min-width:1200px) {
+@media (min-width:991px) and (max-width:1200px) {
     .img-fluid {
-        width: 277px;
+        /* width: 277px; */
+        margin-right: auto;
+        margin-left: auto;
     }
     
 }

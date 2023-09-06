@@ -83,8 +83,8 @@ function Basic_hooded() {
                     <div className="col-md-6 col-12 hooded_col2" style={{ backgroundColor: "gr" }}>
 
                         <div className="row">
-                            <div className="col-2 price">$15.50</div>
-                            <div className="col-2 price p-0">$30.00</div>
+                            <div className="col-2 price fs-4" style={{color:"red"}}>$15.50</div>
+                            <div className="col-2 price p-0 fs-5 text-muted" style={{textDecoration:"line-through"}}>$30.00</div>
                             <div className="col-2"><span style={{ backgroundColor: "red", color: "white" }} className="p-1" >-50%</span></div>
                             <div className="col-6">
                                 <div className="row">
