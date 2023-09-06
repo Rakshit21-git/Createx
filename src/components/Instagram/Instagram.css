@@ -45,12 +45,21 @@
         margin-left: auto;
         margin-top: 30px;
     }
+    .ClassThird {
+       text-align: center;
+    }
+    .FlexClass {
+        display: flex;
+        justify-content: center;
+    }
+
 }
-@media (min-width:991px) and (max-width:1200px) {
+@media (min-width:991px) and (max-width:1400px) {
     .img-fluid {
         /* width: 277px; */
         margin-right: auto;
         margin-left: auto;
+        margin-right: 0!important;
     }
     
 }
