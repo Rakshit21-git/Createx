@@ -12,8 +12,6 @@
     justify-content: space-between;
     margin-right: 1rem;
     margin-left: 0;
-   
-    
 }
 .carousel_btn{
     height: 30  rem;
@@ -95,7 +93,7 @@
         width: 3rem;
     }
     .price{
-        font-size: 0.8rem;
+        font-size: 0.7rem!important;
     }
 }
 @media screen and (max-width:768px){

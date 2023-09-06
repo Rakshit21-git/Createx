@@ -113,4 +113,8 @@
     .slider_indicator{
         width: 3rem!important;
     }
+    .bottomclass{
+        width: 100%;
+        height: 100px;
+    }
 }
