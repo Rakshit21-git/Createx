@@ -1,5 +1,6 @@
 import React from 'react'
 import './css/Header2.css'
+import { NavLink } from 'react-router-dom'
 
 function Header2() {
     return (
@@ -22,7 +23,7 @@ function Header2() {
                                     <a class="nav-link font-weight-bold" href="#">Men</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#">Girls</a>
+                                    <NavLink  className="nav-link girls" to='/sp'>Girls</NavLink>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" href="#">Boys</a>
